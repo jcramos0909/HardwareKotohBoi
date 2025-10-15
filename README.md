@@ -573,7 +573,7 @@
         </ul>
       </div>
       <div class="about-image">
-        <img src="https://i.postimg.cc/1XZkcj1m/images-13.jpg" alt="Hardware Store">
+        <img src="https://i.postimg.cc/D05cwnLC/IMG-20251015-144433.jpg" alt="Hardware Store">
       </div>
     </div>
   </div>
@@ -590,7 +590,7 @@
           </div>
           <div>
             <h4>Our Location</h4>
-            <p>123 Tool Street, Hardware City, HW 10101</p>
+            <p>Basta Dyan Lang,hanapin mo nalang</p>
           </div>
         </div>
         <div class="contact-item">
